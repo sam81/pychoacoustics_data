@@ -1,0 +1,112 @@
+Phones: HD650
+Shuffle Mode: No
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 75
+Sample Rate: 48000
+Bits: 32
+Trigger On/Off: False
+Experiment Label: 
+End Command: 
+Instructions At BP: 
+Shuffling Scheme: 
+No. Repetitions: 1
+Proc. Res.: False
+Proc. Res. Table: False
+Plot: False
+PDF Plot: False
+*******************************************************
+Block Position: 1
+Condition Label: 
+Task Label: 
+Instructions: 
+Experiment: Dummy Adaptive Interleaved
+Paradigm: Transformed Up-Down Interleaved2
+Intervals: 2 :False
+Alternatives: 2 :False
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Linear
+Psychometric Listener Midpoint: 0
+Psychometric Listener Slope: 1
+Psychometric Listener Lapse: 0
+Response Light: Neutral :False
+Response Light Type: Light :False
+Response Light Duration (ms): 0 :False
+.
+Procedure: Geometric :False
+No. Tracks: 2 :False
+Max. Consecutive Trials x Track: unlimited :False
+Turnpoints to average: All final stepsize (even) :False
+Corr. Resp. Move Track 1: Down :False
+Corr. Resp. Move Track 2: Down :False
+..
+Rule Down Track 1: 2 :False
+Rule Down Track 2: 2 :False
+Rule Up Track 1: 1 :False
+Rule Up Track 2: 1 :False
+Initial Turnpoints Track 1: 4 :False
+Initial Turnpoints Track 2: 4 :False
+Total Turnpoints Track 1: 16 :False
+Total Turnpoints Track 2: 16 :False
+Step Size 1 Track 1: 2 :False
+Step Size 1 Track 2: 2 :False
+Step Size 2 Track 1: 1.414 :False
+Step Size 2 Track 2: 1.414 :False
+...
+....
+.....
+......
+Difference 1: 20 :False
+Difference 2: 80 :False
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*******************************************************
+Block Position: 2
+Condition Label: 
+Task Label: 
+Instructions: 
+Experiment: Dummy Adaptive Interleaved
+Paradigm: Transformed Up-Down Interleaved2
+Intervals: 2 :False
+Alternatives: 2 :False
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Linear
+Psychometric Listener Midpoint: 0
+Psychometric Listener Slope: 1
+Psychometric Listener Lapse: 0
+Response Light: Neutral :False
+Response Light Type: Light :False
+Response Light Duration (ms): 0 :False
+.
+Procedure: Geometric :False
+No. Tracks: 2 :False
+Max. Consecutive Trials x Track: unlimited :False
+Turnpoints to average: All final stepsize (even) :False
+Corr. Resp. Move Track 1: Down :False
+Corr. Resp. Move Track 2: Down :False
+..
+Rule Down Track 1: 2 :False
+Rule Down Track 2: 2 :False
+Rule Up Track 1: 1 :False
+Rule Up Track 2: 1 :False
+Initial Turnpoints Track 1: 4 :False
+Initial Turnpoints Track 2: 4 :False
+Total Turnpoints Track 1: 16 :False
+Total Turnpoints Track 2: 16 :False
+Step Size 1 Track 1: 2 :False
+Step Size 1 Track 2: 2 :False
+Step Size 2 Track 1: 1.414 :False
+Step Size 2 Track 2: 1.414 :False
+...
+....
+.....
+......
+Difference 1: 20 :False
+Difference 2: 80 :False
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

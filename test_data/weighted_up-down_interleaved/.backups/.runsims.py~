@@ -1,0 +1,9 @@
+import os
+
+
+
+for i in range(2):
+    cmdStr = "pychoacoustics-dev -f transformed_up-down_geometric.prm -a -q -c --seed 2033 -r res" + str(i+1) + ".txt"
+    x = os.system(cmdStr)
+    if x != 0:
+        raise("Test failed!")

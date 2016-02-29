@@ -1,0 +1,166 @@
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 00:58
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      Weighted Up-Down
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+Corr. Resp. Move Track: Down
+Percent Correct Tracked: 75
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 2
+Step Size 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+20.0; 1; 
+10.0; 1; 
+5.0; 1; 
+2.5; 1; 
+1.25; 0; 
+10.0; 1; 
+5.0; 1; 
+2.5; 1; 
+1.25; 1; 
+0.625; 1; 
+0.3125; 1; 
+0.15625; 0; 
+1.25; 1; 
+0.625; 0; 
+1.7669662149999998; 1; 
+1.2496224999999999; 0; 
+3.5328651824061392; 0; 
+9.987925471138336; 1; 
+7.063596514242104; 1; 
+4.99547136792228; 1; 
+3.532865182406139; 0; 
+9.987925471138334; 1; 
+7.0635965142421036; 1; 
+4.9954713679222795; 1; 
+3.5328651824061383; 1; 
+2.4984902280099988; 1; 
+1.7669662149999992; 0; 
+4.9954713679222795; 1; 
+3.5328651824061383; 0; 
+9.987925471138333; 1; 
+7.063596514242102; 1; 
+4.995471367922279; 1; 
+3.5328651824061374; 0; 
+9.98792547113833; 1; 
+
+End: 25/02/2016 00:58
+Duration: 0.0006763537724812826 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 2
+Block Position: 2
+Start: 25/02/2016 00:58
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      Weighted Up-Down
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+Corr. Resp. Move Track: Down
+Percent Correct Tracked: 75
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 2
+Step Size 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+20.0; 1; 
+10.0; 1; 
+5.0; 1; 
+2.5; 0; 
+20.0; 1; 
+10.0; 1; 
+5.0; 1; 
+2.5; 1; 
+1.25; 0; 
+10.0; 0; 
+80.0; 1; 
+40.0; 1; 
+28.28854314002829; 1; 
+20.006041824631037; 1; 
+14.148544430432134; 1; 
+10.00604273722216; 1; 
+7.076409290821895; 1; 
+5.004532737497804; 1; 
+3.5392735060097626; 0; 
+10.00604273722216; 1; 
+7.076409290821895; 0; 
+20.006041824631037; 1; 
+14.148544430432134; 1; 
+10.00604273722216; 1; 
+7.076409290821895; 1; 
+5.004532737497804; 1; 
+3.5392735060097626; 1; 
+2.5030222814779086; 0; 
+7.076409290821895; 1; 
+5.004532737497804; 1; 
+3.5392735060097626; 0; 
+10.00604273722216; 1; 
+7.076409290821895; 1; 
+5.004532737497804; 1; 
+3.5392735060097626; 1; 
+2.5030222814779086; 1; 
+1.7701713447509961; 0; 
+5.004532737497804; 1; 
+3.5392735060097626; 0; 
+10.00604273722216; 1; 
+
+End: 25/02/2016 00:58
+Duration: 0.0002629717191060384 min. 
+

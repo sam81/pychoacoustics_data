@@ -1,0 +1,327 @@
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive_interleaved 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 22:08
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive Interleaved
+Listener:      
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 0.75
+Paradigm:      Transformed Up-Down Interleaved
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+No. Tracks: 2
+Max. Consecutive Trials x Track: unlimited
+Turnpoints to average: All final stepsize (even)
+Corr. Resp. Move Track 1: Down
+Corr. Resp. Move Track 2: Down
+Rule Down Track 1: 2
+Rule Down Track 2: 2
+Rule Up Track 1: 1
+Rule Up Track 2: 1
+Initial Turnpoints Track 1: 4
+Initial Turnpoints Track 2: 4
+Total Turnpoints Track 1: 16
+Total Turnpoints Track 2: 16
+Step Size 1 Track 1: 2
+Step Size 1 Track 2: 2
+Step Size 2 Track 1: 1.414
+Step Size 2 Track 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Neutral
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference 1:  20
+Difference 2:  80
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+80.0; TRACK 2; 0; 
+20.0; TRACK 1; 1; 
+20.0; TRACK 1; 1; 
+160.0; TRACK 2; 1; 
+10.0; TRACK 1; 1; 
+10.0; TRACK 1; 1; 
+5.0; TRACK 1; 1; 
+5.0; TRACK 1; 1; 
+2.5; TRACK 1; 0; 
+160.0; TRACK 2; 1; 
+80.0; TRACK 2; 1; 
+5.0; TRACK 1; 1; 
+80.0; TRACK 2; 1; 
+40.0; TRACK 2; 1; 
+5.0; TRACK 1; 1; 
+2.5; TRACK 1; 0; 
+40.0; TRACK 2; 1; 
+5.0; TRACK 1; 1; 
+5.0; TRACK 1; 1; 
+20.0; TRACK 2; 1; 
+20.0; TRACK 2; 1; 
+2.5; TRACK 1; 0; 
+10.0; TRACK 2; 1; 
+10.0; TRACK 2; 1; 
+5.0; TRACK 2; 1; 
+5.0; TRACK 2; 1; 
+3.5349999999999997; TRACK 1; 1; 
+3.5349999999999997; TRACK 1; 1; 
+2.5; TRACK 2; 1; 
+2.4999999999999996; TRACK 1; 1; 
+2.4999999999999996; TRACK 1; 0; 
+3.5349999999999993; TRACK 1; 1; 
+2.5; TRACK 2; 0; 
+5.0; TRACK 2; 0; 
+3.5349999999999993; TRACK 1; 1; 
+10.0; TRACK 2; 1; 
+10.0; TRACK 2; 1; 
+5.0; TRACK 2; 1; 
+5.0; TRACK 2; 1; 
+2.4999999999999996; TRACK 1; 1; 
+2.4999999999999996; TRACK 1; 1; 
+1.7680339462517678; TRACK 1; 1; 
+3.536067892503536; TRACK 2; 0; 
+5.0; TRACK 2; 1; 
+5.0; TRACK 2; 1; 
+1.7680339462517678; TRACK 1; 0; 
+2.4999999999999996; TRACK 1; 1; 
+3.536067892503536; TRACK 2; 1; 
+3.536067892503536; TRACK 2; 1; 
+2.5007552280788796; TRACK 2; 0; 
+3.5360678925035356; TRACK 2; 1; 
+2.4999999999999996; TRACK 1; 1; 
+3.5360678925035356; TRACK 2; 1; 
+2.5007552280788796; TRACK 2; 1; 
+1.7680339462517678; TRACK 1; 1; 
+1.7680339462517678; TRACK 1; 1; 
+2.5007552280788796; TRACK 2; 1; 
+1.2503776140394398; TRACK 1; 1; 
+1.7685680538040167; TRACK 2; 1; 
+1.2503776140394398; TRACK 1; 1; 
+1.7685680538040167; TRACK 2; 1; 
+1.25075534215277; TRACK 2; 1; 
+1.25075534215277; TRACK 2; 0; 
+0.8842840269020084; TRACK 1; 1; 
+0.8842840269020084; TRACK 1; 1; 
+0.625377671076385; TRACK 1; 1; 
+0.625377671076385; TRACK 1; 1; 
+0.44227558067636846; TRACK 1; 0; 
+0.625377671076385; TRACK 1; 0; 
+1.7685680538040167; TRACK 2; 1; 
+1.7685680538040167; TRACK 2; 1; 
+1.25075534215277; TRACK 2; 1; 
+0.8842840269020084; TRACK 1; 1; 
+0.8842840269020084; TRACK 1; 1; 
+1.25075534215277; TRACK 2; 1; 
+0.8845511613527369; TRACK 2; 1; 
+0.625377671076385; TRACK 1; 1; 
+0.8845511613527369; TRACK 2; 1; 
+0.625377671076385; TRACK 1; 0; 
+0.8842840269020084; TRACK 1; 1; 
+0.6255665921872255; TRACK 2; 1; 
+0.8842840269020084; TRACK 1; 0; 
+1.2503776140394398; TRACK 1; 1; 
+0.6255665921872255; TRACK 2; 1; 
+1.2503776140394398; TRACK 1; 0; 
+0.44240918825122033; TRACK 2; 1; 
+0.44240918825122033; TRACK 2; 1; 
+0.3128777851847386; TRACK 2; 0; 
+0.44240918825122033; TRACK 2; 1; 
+0.44240918825122033; TRACK 2; 1; 
+1.7680339462517678; TRACK 1; 1; 
+0.3128777851847386; TRACK 2; 0; 
+1.7680339462517678; TRACK 1; 1; 
+0.44240918825122033; TRACK 2; 1; 
+0.44240918825122033; TRACK 2; 0; 
+0.6255665921872255; TRACK 2; 1; 
+1.2503776140394398; TRACK 1; 1; 
+0.6255665921872255; TRACK 2; 0; 
+0.8845511613527369; TRACK 2; 0; 
+1.25075534215277; TRACK 2; 1; 
+1.25075534215277; TRACK 2; 1; 
+1.2503776140394398; TRACK 1; 0; 
+1.7680339462517678; TRACK 1; 1; 
+1.7680339462517678; TRACK 1; 1; 
+0.8845511613527369; TRACK 2; 0; 
+1.25075534215277; TRACK 2; 1; 
+1.25075534215277; TRACK 2; 0; 
+1.7685680538040167; TRACK 2; 0; 
+2.5007552280788796; TRACK 2; 1; 
+2.5007552280788796; TRACK 2; 1; 
+
+End: 25/02/2016 22:08
+Duration: 0.0011125922203063965 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive_interleaved 0.3.36 23-Feb-2016 16:08
+Block Number: 2
+Block Position: 2
+Start: 25/02/2016 22:08
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive Interleaved
+Listener:      
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 0.75
+Paradigm:      Transformed Up-Down Interleaved
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+No. Tracks: 2
+Max. Consecutive Trials x Track: unlimited
+Turnpoints to average: All final stepsize (even)
+Corr. Resp. Move Track 1: Down
+Corr. Resp. Move Track 2: Down
+Rule Down Track 1: 2
+Rule Down Track 2: 2
+Rule Up Track 1: 1
+Rule Up Track 2: 1
+Initial Turnpoints Track 1: 4
+Initial Turnpoints Track 2: 4
+Total Turnpoints Track 1: 16
+Total Turnpoints Track 2: 16
+Step Size 1 Track 1: 2
+Step Size 1 Track 2: 2
+Step Size 2 Track 1: 1.414
+Step Size 2 Track 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Neutral
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference 1:  20
+Difference 2:  80
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+80.0; TRACK 2; 1; 
+20.0; TRACK 1; 1; 
+20.0; TRACK 1; 0; 
+40.0; TRACK 1; 0; 
+80.0; TRACK 2; 1; 
+80.0; TRACK 1; 0; 
+160.0; TRACK 1; 1; 
+160.0; TRACK 1; 0; 
+40.0; TRACK 2; 1; 
+320.0; TRACK 1; 1; 
+40.0; TRACK 2; 0; 
+80.0; TRACK 2; 0; 
+320.0; TRACK 1; 1; 
+160.0; TRACK 2; 1; 
+160.0; TRACK 2; 1; 
+160.0; TRACK 1; 1; 
+160.0; TRACK 1; 1; 
+80.0; TRACK 2; 0; 
+160.0; TRACK 2; 1; 
+80.0; TRACK 1; 1; 
+80.0; TRACK 1; 1; 
+160.0; TRACK 2; 1; 
+80.0; TRACK 2; 1; 
+40.0; TRACK 1; 1; 
+80.0; TRACK 2; 1; 
+40.0; TRACK 1; 1; 
+56.57708628005658; TRACK 2; 1; 
+20.0; TRACK 1; 0; 
+56.57708628005658; TRACK 2; 0; 
+80.0; TRACK 2; 1; 
+80.0; TRACK 2; 1; 
+40.0; TRACK 1; 1; 
+56.57708628005658; TRACK 2; 0; 
+40.0; TRACK 1; 0; 
+80.0; TRACK 1; 1; 
+80.0; TRACK 1; 1; 
+80.0; TRACK 2; 1; 
+80.0; TRACK 2; 1; 
+40.0; TRACK 1; 1; 
+40.0; TRACK 1; 0; 
+56.57708628005658; TRACK 2; 0; 
+56.559999999999995; TRACK 1; 1; 
+80.0; TRACK 2; 1; 
+56.559999999999995; TRACK 1; 1; 
+80.0; TRACK 2; 1; 
+56.57708628005658; TRACK 2; 0; 
+39.99999999999999; TRACK 1; 1; 
+39.99999999999999; TRACK 1; 1; 
+80.0; TRACK 2; 1; 
+28.288543140028285; TRACK 1; 1; 
+28.288543140028285; TRACK 1; 1; 
+20.006041824631037; TRACK 1; 1; 
+20.006041824631037; TRACK 1; 1; 
+14.148544430432134; TRACK 1; 1; 
+14.148544430432134; TRACK 1; 1; 
+80.0; TRACK 2; 0; 
+113.11999999999999; TRACK 2; 1; 
+113.11999999999999; TRACK 2; 1; 
+10.00604273722216; TRACK 1; 1; 
+10.00604273722216; TRACK 1; 0; 
+14.148544430432134; TRACK 1; 0; 
+79.99999999999999; TRACK 2; 0; 
+20.006041824631037; TRACK 1; 0; 
+28.288543140028285; TRACK 1; 1; 
+28.288543140028285; TRACK 1; 1; 
+20.006041824631037; TRACK 1; 1; 
+113.11999999999998; TRACK 2; 1; 
+113.11999999999998; TRACK 2; 1; 
+20.006041824631037; TRACK 1; 1; 
+79.99999999999999; TRACK 2; 1; 
+79.99999999999999; TRACK 2; 1; 
+56.57708628005657; TRACK 2; 0; 
+14.148544430432134; TRACK 1; 1; 
+79.99999999999999; TRACK 2; 0; 
+113.11999999999998; TRACK 2; 1; 
+14.148544430432134; TRACK 1; 0; 
+113.11999999999998; TRACK 2; 1; 
+79.99999999999999; TRACK 2; 1; 
+79.99999999999999; TRACK 2; 0; 
+113.11999999999998; TRACK 2; 0; 
+159.95167999999995; TRACK 2; 1; 
+159.95167999999995; TRACK 2; 1; 
+20.006041824631037; TRACK 1; 1; 
+20.006041824631037; TRACK 1; 1; 
+113.11999999999996; TRACK 2; 1; 
+14.148544430432134; TRACK 1; 0; 
+113.11999999999996; TRACK 2; 1; 
+79.99999999999997; TRACK 2; 1; 
+79.99999999999997; TRACK 2; 0; 
+113.11999999999995; TRACK 2; 1; 
+20.006041824631037; TRACK 1; 1; 
+20.006041824631037; TRACK 1; 1; 
+113.11999999999995; TRACK 2; 1; 
+79.99999999999996; TRACK 2; 1; 
+79.99999999999996; TRACK 2; 0; 
+14.148544430432134; TRACK 1; 1; 
+113.11999999999993; TRACK 2; 1; 
+14.148544430432134; TRACK 1; 1; 
+10.00604273722216; TRACK 1; 0; 
+14.148544430432134; TRACK 1; 1; 
+113.11999999999993; TRACK 2; 1; 
+14.148544430432134; TRACK 1; 1; 
+10.00604273722216; TRACK 1; 1; 
+10.00604273722216; TRACK 1; 0; 
+14.148544430432134; TRACK 1; 0; 
+79.99999999999996; TRACK 2; 0; 
+20.006041824631037; TRACK 1; 0; 
+28.288543140028285; TRACK 1; 1; 
+28.288543140028285; TRACK 1; 1; 
+
+End: 25/02/2016 22:08
+Duration: 0.0007706324259440105 min. 
+

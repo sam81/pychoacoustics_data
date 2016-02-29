@@ -1,0 +1,100 @@
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 00:58
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      Weighted Up-Down
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+Corr. Resp. Move Track: Down
+Percent Correct Tracked: 75
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 2
+Step Size 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 1.25 10.00  0.16  1.25 |  0.62  1.77  1.25  9.99  3.53  9.99  1.77  5.00  3.53  9.99  3.53  9.99 | 
+
+geometric turnpointMean =  3.64, s.d. =  2.53 
+B1 = 18, B2 = 16
+
+End: 25/02/2016 00:58
+Duration: 0.0006763537724812826 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 2
+Block Position: 2
+Start: 25/02/2016 00:58
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      Weighted Up-Down
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+Corr. Resp. Move Track: Down
+Percent Correct Tracked: 75
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 2
+Step Size 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 2.50 20.00  1.25 80.00 |  3.54 10.01  7.08 20.01  2.50  7.08  3.54 10.01  1.77  5.00  3.54 10.01 | 
+
+geometric turnpointMean =  5.62, s.d. =  2.01 
+B1 = 19, B2 = 21
+
+End: 25/02/2016 00:58
+Duration: 0.0002629717191060384 min. 
+

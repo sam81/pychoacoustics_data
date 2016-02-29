@@ -1,0 +1,321 @@
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive_interleaved 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 03:44
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive Interleaved
+Listener:      
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 0.75
+Paradigm:      Transformed Up-Down Interleaved
+Intervals:     2
+Alternatives:  2
+Procedure: Arithmetic
+No. Tracks: 2
+Max. Consecutive Trials x Track: unlimited
+Turnpoints to average: All final stepsize (even)
+Initial Track 1 Direction: Down
+Initial Track 2 Direction: Down
+Rule Down Track 1: 2
+Rule Down Track 2: 2
+Rule Up Track 1: 1
+Rule Up Track 2: 1
+Initial Turnpoints Track 1: 4
+Initial Turnpoints Track 2: 4
+Total Turnpoints Track 1: 16
+Total Turnpoints Track 2: 16
+Step Size 1 Track 1: 4
+Step Size 1 Track 2: 4
+Step Size 2 Track 1: 2
+Step Size 2 Track 2: 2
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: Neutral
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference 1:  20
+Difference 2:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TRACK 1:
+16.00 20.00  8.00 12.00 |  4.00  6.00  4.00  6.00  4.00  6.00  2.00  6.00  0.00  2.00 -2.00  2.00 -2.00  4.00  0.00  2.00 | 
+
+turnpointMean =  2.75, s.d. =  2.72 
+B1 = 37, B2 = 27
+
+TRACK 2:
+16.00 20.00 16.00 20.00 | 16.00 18.00 10.00 12.00  8.00 12.00 10.00 16.00  8.00 10.00 -2.00  2.00 | 
+
+turnpointMean = 10.00, s.d. =  5.72 
+B1 = 24, B2 = 35
+.
+End: 25/02/2016 03:44
+Duration: 0.007519948482513428 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive_interleaved 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 03:45
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive Interleaved
+Listener:      
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 0.75
+Paradigm:      Transformed Up-Down Interleaved
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+No. Tracks: 2
+Max. Consecutive Trials x Track: unlimited
+Turnpoints to average: All final stepsize (even)
+Initial Track 1 Direction: Down
+Initial Track 2 Direction: Down
+Rule Down Track 1: 2
+Rule Down Track 2: 2
+Rule Up Track 1: 1
+Rule Up Track 2: 1
+Initial Turnpoints Track 1: 4
+Initial Turnpoints Track 2: 4
+Total Turnpoints Track 1: 16
+Total Turnpoints Track 2: 16
+Step Size 1 Track 1: 4
+Step Size 1 Track 2: 4
+Step Size 2 Track 1: 2
+Step Size 2 Track 2: 2
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Neutral
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference 1:  20
+Difference 2:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TRACK 1:
+20.00 1280.00 320.00 1280.00 | 320.00 1280.00 160.00 320.00 20.00 40.00  0.04  0.16  0.08  0.16  0.08  0.16 | 
+
+geometric turnpointMean =  3.97, s.d. = 55.30 
+B1 = 33, B2 = 28
+
+TRACK 2:
+ 5.00 1280.00 80.00 5120.00 | 1280.00 2560.00 160.00 320.00 40.00 320.00 160.00 1280.00 640.00 2560.00 1280.00 2560.00 640.00 1280.00 640.00 2560.00 1280.00 2560.00 | 
+
+geometric turnpointMean = 775.89, s.d. =  3.27 
+B1 = 32, B2 = 40
+.
+End: 25/02/2016 03:45
+Duration: 0.008193012078603108 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive_interleaved 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 03:45
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive Interleaved
+Listener:      
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 0.75
+Paradigm:      Weighted Up-Down Interleaved
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+No. Tracks: 2
+Max. Consecutive Trials x Track: unlimited
+Turnpoints to average: All final stepsize (even)
+Initial Track 1 Direction: Down
+Initial Track 2 Direction: Down
+Percent Correct Tracked Track 1: 75
+Percent Correct Tracked Track 2: 75
+Initial Turnpoints Track 1: 4
+Initial Turnpoints Track 2: 4
+Total Turnpoints Track 1: 16
+Total Turnpoints Track 2: 16
+Step Size 1 Track 1: 4
+Step Size 1 Track 2: 4
+Step Size 2 Track 1: 2
+Step Size 2 Track 2: 2
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Neutral
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference 1:  20
+Difference 2:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TRACK 1:
+20.00 81920.00 20480.00 1310720.00 | 20480.00 163840.00 20480.00 163840.00 40960.00 2621440.00 163840.00 1310720.00 327680.00 2621440.00 655360.00 5242880.00 | 
+
+geometric turnpointMean = 309288.73, s.d. =  6.71 
+B1 = 11, B2 = 19
+
+TRACK 2:
+ 1.25 80.00 20.00 1280.00 | 80.00 640.00 160.00 1280.00 20.00 160.00 80.00 640.00 160.00 10240.00 160.00 1280.00 | 
+
+geometric turnpointMean = 302.04, s.d. =  5.25 
+B1 = 19, B2 = 17
+.
+End: 25/02/2016 03:45
+Duration: 0.00360947052637736 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive_interleaved 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 03:45
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive Interleaved
+Listener:      
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 0.75
+Paradigm:      Transformed Up-Down Interleaved2
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+No. Tracks: 2
+Max. Consecutive Trials x Track: unlimited
+Turnpoints to average: All final stepsize (even)
+Corr. Resp. Move Track 1: Down
+Corr. Resp. Move Track 2: Down
+Rule Down Track 1: 2
+Rule Down Track 2: 2
+Rule Up Track 1: 1
+Rule Up Track 2: 1
+Initial Turnpoints Track 1: 4
+Initial Turnpoints Track 2: 4
+Total Turnpoints Track 1: 16
+Total Turnpoints Track 2: 16
+Step Size 1 Track 1: 4
+Step Size 1 Track 2: 4
+Step Size 2 Track 1: 2
+Step Size 2 Track 2: 2
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Neutral
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference 1:  20
+Difference 2:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TRACK 1:
+20.00 320.00 80.00 1280.00 320.00 | 640.00 10.00 20.00  1.25  5.00  2.50  5.00  2.50  5.00  1.25  2.50  1.25 | 
+
+geometric turnpointMean =  5.30, s.d. =  5.67 
+B1 = 24, B2 = 29
+
+TRACK 2:
+ 0.31  5.00  1.25  5.00 |  0.31  2.50  1.25  2.50  0.62  2.50  1.25  5.00  2.50  5.00  2.50 10.00 | 
+
+geometric turnpointMean =  2.10, s.d. =  2.56 
+B1 = 25, B2 = 22
+.
+End: 25/02/2016 03:45
+Duration: 0.005202786127726237 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive_interleaved 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 03:45
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive Interleaved
+Listener:      
+Response Mode: Automatic
+Auto Resp. Mode Perc. Corr.: 0.75
+Paradigm:      Weighted Up-Down Interleaved2
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+No. Tracks: 2
+Max. Consecutive Trials x Track: unlimited
+Turnpoints to average: All final stepsize (even)
+Corr. Resp. Move Track 1: Down
+Corr. Resp. Move Track 2: Down
+Percent Correct Tracked Track 1: 75
+Percent Correct Tracked Track 2: 75
+Initial Turnpoints Track 1: 4
+Initial Turnpoints Track 2: 4
+Total Turnpoints Track 1: 16
+Total Turnpoints Track 2: 16
+Step Size 1 Track 1: 4
+Step Size 1 Track 2: 4
+Step Size 2 Track 1: 2
+Step Size 2 Track 2: 2
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Neutral
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference 1:  20
+Difference 2:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TRACK 1:
+ 5.00 320.00  0.08  5.00 |  0.62  5.00  0.31  2.50  0.31 160.00  1.25 10.00  5.00 40.00 10.00 80.00 10.00 640.00 320.00 2560.00 40.00 320.00 40.00 320.00 40.00 320.00 | 
+
+geometric turnpointMean = 24.16, s.d. = 12.93 
+B1 = 35, B2 = 33
+
+TRACK 2:
+ 1.25 80.00  0.31 20.00 |  0.08  0.62  0.02  1.25  0.00  0.16  0.08 320.00 40.00 2560.00 640.00 5120.00 | 
+
+geometric turnpointMean =  3.54, s.d. = 144.96 
+B1 = 24, B2 = 24
+.
+End: 25/02/2016 03:45
+Duration: 0.005719876289367676 min. 
+

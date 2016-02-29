@@ -1,0 +1,7 @@
+threshold_arithmetic_track1;SD_track1;threshold_arithmetic_track2;SD_track2;condition;listener;session;experimentLabel;date;time;duration;block;experiment;paradigm;
+2.750;2.720;10.000;5.721;;;;;25/02/2016;03:44;0.451;1;Dummy Adaptive Interleaved;Transformed Up-Down Interleaved;
+threshold_geometric_track1;SD_track1;threshold_geometric_track2;SD_track2;condition;listener;session;experimentLabel;date;time;duration;block;experiment;paradigm;
+3.969;55.301;775.889;3.268;;;;;25/02/2016;03:45;0.492;1;Dummy Adaptive Interleaved;Transformed Up-Down Interleaved;
+309288.735;6.706;302.040;5.247;;;;;25/02/2016;03:45;0.217;1;Dummy Adaptive Interleaved;Weighted Up-Down Interleaved;
+5.297;5.669;2.102;2.561;;;;;25/02/2016;03:45;0.312;1;Dummy Adaptive Interleaved;Transformed Up-Down Interleaved2;
+24.162;12.931;3.536;144.961;;;;;25/02/2016;03:45;0.343;1;Dummy Adaptive Interleaved;Weighted Up-Down Interleaved2;

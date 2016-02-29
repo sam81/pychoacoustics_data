@@ -1,0 +1,188 @@
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 00:59
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      Transformed Up-Down
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 2
+Step Size 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+20.0; 1; 
+20.0; 1; 
+10.0; 1; 
+10.0; 1; 
+5.0; 0; 
+10.0; 1; 
+10.0; 1; 
+5.0; 1; 
+5.0; 1; 
+2.5; 1; 
+2.5; 1; 
+1.25; 0; 
+2.5; 1; 
+2.5; 0; 
+5.0; 1; 
+5.0; 1; 
+2.5; 0; 
+3.5349999999999997; 1; 
+3.5349999999999997; 1; 
+2.4999999999999996; 1; 
+2.4999999999999996; 0; 
+3.5349999999999993; 1; 
+3.5349999999999993; 1; 
+2.4999999999999996; 1; 
+2.4999999999999996; 1; 
+1.7680339462517678; 1; 
+1.7680339462517678; 0; 
+2.4999999999999996; 1; 
+2.4999999999999996; 0; 
+3.5349999999999993; 0; 
+4.9984899999999985; 1; 
+4.9984899999999985; 1; 
+3.534999999999999; 0; 
+4.998489999999998; 1; 
+4.998489999999998; 1; 
+3.5349999999999984; 1; 
+3.5349999999999984; 1; 
+2.4999999999999987; 0; 
+3.534999999999998; 0; 
+4.998489999999997; 1; 
+4.998489999999997; 1; 
+3.5349999999999975; 1; 
+3.5349999999999975; 1; 
+2.4999999999999982; 0; 
+3.5349999999999975; 0; 
+4.998489999999996; 1; 
+4.998489999999996; 1; 
+
+End: 25/02/2016 00:59
+Duration: 0.0005766868591308594 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 2
+Block Position: 2
+Start: 25/02/2016 00:59
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      Transformed Up-Down
+Intervals:     2
+Alternatives:  2
+Procedure: Geometric
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 2
+Step Size 2: 1.414
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+20.0; 1; 
+20.0; 1; 
+10.0; 1; 
+10.0; 1; 
+5.0; 1; 
+5.0; 0; 
+10.0; 1; 
+10.0; 1; 
+5.0; 1; 
+5.0; 1; 
+2.5; 0; 
+5.0; 1; 
+5.0; 1; 
+2.5; 1; 
+2.5; 0; 
+3.5349999999999997; 1; 
+3.5349999999999997; 0; 
+4.998489999999999; 1; 
+4.998489999999999; 1; 
+3.5349999999999997; 1; 
+3.5349999999999997; 0; 
+4.998489999999999; 1; 
+4.998489999999999; 1; 
+3.5349999999999997; 0; 
+4.998489999999999; 1; 
+4.998489999999999; 0; 
+7.0678648599999985; 1; 
+7.0678648599999985; 1; 
+4.9984899999999985; 1; 
+4.9984899999999985; 1; 
+3.534999999999999; 1; 
+3.534999999999999; 1; 
+2.499999999999999; 0; 
+3.5349999999999984; 1; 
+3.5349999999999984; 1; 
+2.4999999999999987; 0; 
+3.534999999999998; 0; 
+4.998489999999997; 1; 
+4.998489999999997; 0; 
+7.067864859999995; 1; 
+7.067864859999995; 1; 
+4.998489999999997; 1; 
+4.998489999999997; 1; 
+3.5349999999999975; 0; 
+4.998489999999996; 0; 
+7.067864859999994; 1; 
+7.067864859999994; 1; 
+
+End: 25/02/2016 00:59
+Duration: 0.00028804540634155276 min. 
+

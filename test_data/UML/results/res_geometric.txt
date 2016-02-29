@@ -1,0 +1,152 @@
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 1
+Block Position: 1
+Start: 25/02/2016 23:15
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      UML
+Intervals:     2
+Alternatives:  2
+Mid Point Prior: Uniform
+Slope Prior: Uniform
+Lapse Prior: Uniform
+Psychometric Function: Logistic
+Posterior Summary: Mean
+Swpt. Rule: Up-Down
+Stim. Scaling: Logarithmic
+Slope Spacing: Logarithmic
+Lapse Spacing: Linear
+Stim. Min: 0.005
+Stim. Max: 80
+Suggested Lapse Swpt.: 80
+Pr. Corr. at Est. Lapse Swpt.: 0.99
+Rule Down: 2
+Mid Point Min: 0.5
+Mid Point Max: 50
+Mid Point Step: 1.1
+Slope Min: 0.1
+Slope Max: 10
+Slope Step: 1.125
+Lapse Min: 0
+Lapse Max: 0.2
+Lapse Step: 0.01
+Mid Point mu: 0.001
+Mid Point STD: 1.1
+Slope mu: 1.1
+Slope STD: 1.1
+Lapse mu: 0.01
+Lapse STD: 1.1
+No. Trials: 100
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Midpoint = 4.798 
+Slope = 6.231 
+Lapse = 0.045 
+
+B1 = 54, B2 = 46
+
+End: 25/02/2016 23:15
+Duration: 0.028360843658447266 min. 
+
+*******************************************************
+pychoacoustics version: 0.3.36; build date: 23-Feb-2016 16:08
+Experiment version: pychoacoustics.default_experiments.dummy_adaptive 0.3.36 23-Feb-2016 16:08
+Block Number: 2
+Block Position: 2
+Start: 25/02/2016 23:15
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: 
+Session Label: 
+Condition Label: 
+Experiment:    Dummy Adaptive
+Listener:      
+Response Mode: Psychometric
+Psychometric Listener Function: Logistic
+Psychometric Listener Function Fit: Logarithmic
+Psychometric Listener Midpoint: 5.0
+Psychometric Listener Slope: 3.0
+Psychometric Listener Lapse: 0.0
+Paradigm:      UML
+Intervals:     2
+Alternatives:  2
+Mid Point Prior: Uniform
+Slope Prior: Uniform
+Lapse Prior: Uniform
+Psychometric Function: Logistic
+Posterior Summary: Mean
+Swpt. Rule: Up-Down
+Stim. Scaling: Logarithmic
+Slope Spacing: Logarithmic
+Lapse Spacing: Linear
+Stim. Min: 0.005
+Stim. Max: 80
+Suggested Lapse Swpt.: 80
+Pr. Corr. at Est. Lapse Swpt.: 0.99
+Rule Down: 2
+Mid Point Min: 0.5
+Mid Point Max: 50
+Mid Point Step: 1.1
+Slope Min: 0.1
+Slope Max: 10
+Slope Step: 1.125
+Lapse Min: 0
+Lapse Max: 0.2
+Lapse Step: 0.01
+Mid Point mu: 0.001
+Mid Point STD: 1.1
+Slope mu: 1.1
+Slope STD: 1.1
+Lapse mu: 0.01
+Lapse STD: 1.1
+No. Trials: 100
+Phones:        HD650
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 0
+Warning Interval: No
+Interval Lights: No
+Response Light: None
+Response Light Type: Light
+Response Light Duration (ms): 0
+
+Difference:  20
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Midpoint = 5.334 
+Slope = 2.763 
+Lapse = 0.068 
+
+B1 = 48, B2 = 52
+
+End: 25/02/2016 23:15
+Duration: 0.02798688809076945 min. 
+
